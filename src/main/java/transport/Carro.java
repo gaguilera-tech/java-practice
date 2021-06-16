@@ -1,4 +1,4 @@
-package pojo;
+package transport;
 
 public class Carro {
     private String color;
